@@ -141,6 +141,7 @@ header {
 .nav-title a {
 	text-decoration: none;
 	color: var(--main-color);
+	outline: 0;
 }
 
 .nav-title a img {
@@ -333,6 +334,7 @@ h3 {
 }
 
 .footer_right ul li a {
+	transition: all 0.5s;
     font-size: 20px;
     color: #fff;
     padding: 8px;
@@ -491,4 +493,9 @@ footer .footer_rightul li a {
 }
 .footer_left  a img {
     max-width: 190px;
+}
+
+
+.footer_right ul li a:hover {
+    transform: rotate(360deg);
 }
