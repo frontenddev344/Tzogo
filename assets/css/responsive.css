@@ -57,7 +57,9 @@
 	.nav {
 		padding: 1rem;
 	}
-
+	.nav>.nav-list>li a:hover {
+		color:#fff;
+	}
 	.nav>.nav-btn {
 		display: inline-block;
 		position: absolute;
@@ -111,9 +113,7 @@
 		padding-left: 0;
 	}
 
-	.nav>.nav-list>li a {
-		color: var(--bg-dark);
-	}
+
 
 	header {
 		padding: 0px 0px;

@@ -7,8 +7,8 @@ body,
 
 :root {
 	--main-color:#0cafd2;
-	--bg-dark: aliceblue;
-	--bg-light: aliceblue;
+	--bg-dark: radial-gradient(#00d2ff3d, transparent);
+	--bg-light: radial-gradient(#00d2ff3d, transparent);
 	--font-color: #fff;
 }
 
@@ -387,12 +387,12 @@ footer .footer_rightul li a {
 
 
 .lower_footer {
-	background: var(--bg-dark);
+	background: #0cafd2;
 	border-top: 1px solid #0cafd2;
 }
 
 .lower_footer p {
-	color: #0cafd2;
+	color: #fff;
 	text-transform: capitalize;
 	font-weight: 500;
 	font-size: 14px;
@@ -470,7 +470,7 @@ footer .footer_rightul li a {
     color: #fff;
 }
 .first_section {
-    background: aliceblue;
+    background: radial-gradient(#00d2ff3d, transparent);
 }
 .best_hotel_card {
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
