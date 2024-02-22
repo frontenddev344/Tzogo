@@ -144,7 +144,7 @@ header {
 }
 
 .nav-title a img {
-	max-width: 120px;
+	max-width: 190px;
 }
 
 #banner {
@@ -469,4 +469,7 @@ footer .footer_right ul li a:hover {
 }
 .review_section_content {
     padding-bottom: 60px;
+}
+.footer_left  a img {
+    max-width: 190px;
 }
