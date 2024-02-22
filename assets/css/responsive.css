@@ -62,7 +62,7 @@
 		display: inline-block;
 		position: absolute;
 		right: 15px;
-		top: 20px;
+		top: 10px;
 		padding-top: 0.2rem;
 		z-index: 2;
 	}
@@ -79,7 +79,7 @@
 		display: block;
 		width: 25px;
 		height: 10px;
-		border-top: 2px solid #0cafd2;
+		border-top: 2px solid #fff;
 		filter: invert(1);
 	}
 
@@ -89,7 +89,7 @@
 		flex-direction: column;
 		gap: 1rem;
 		width: 100%;
-		background-color: #fff;
+		background-color: #0cafd2;
 		height: 0;
 		transition: all 0.3s ease-in;
 		top: 0px;
@@ -140,6 +140,9 @@
 	}
 	.review_section_hotel h3 {
 		padding-top: 30px;
+	}
+	.active {
+		color: #ffff!important;
 	}
 }
 
