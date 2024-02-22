@@ -356,7 +356,7 @@ footer .footer_left ul li a {
 }
 
 footer .footer_left ul li a:hover {
-	color: #fff;
+	color: #000;
 }
 
 footer .footer_rightul li a {
@@ -364,7 +364,7 @@ footer .footer_rightul li a {
 }
 
 footer .footer_right ul li a:hover {
-	color: #fff;
+    color: #000;
 }
 
 .lower_footer {
