@@ -194,5 +194,6 @@
 	.main_hotel_card {
 		box-shadow:unset;
 		margin-bottom: 0px;
+		background: radial-gradient(#00d2ff3d, transparent);
 	}
 }
