@@ -442,6 +442,7 @@ footer .footer_rightul li a {
 .sub_btn {
 	width: 170px;
 	background: #0cafd2;
+	text-transform: capitalize;
 	color: #fff;
 	font-weight: 500;
 	border: 1px solid transparent;
