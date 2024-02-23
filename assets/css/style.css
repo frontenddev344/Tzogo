@@ -358,7 +358,7 @@ h3 {
 	background-color: #b00;
 }
 .footer_right ul li:nth-child(4) a {
-    background: #1da1f2;
+	background: #000;
 }
 footer {
 	background-color: var(--bg-dark);
@@ -442,7 +442,6 @@ footer .footer_rightul li a {
 .sub_btn {
 	width: 170px;
 	background: #0cafd2;
-	text-transform: capitalize;
 	color: #fff;
 	font-weight: 500;
 	border: 1px solid transparent;
