@@ -515,4 +515,6 @@ footer .footer_rightul li a {
 }
 
 
-
+.first_section.section.contact_us_form_parent .row {
+	align-items: center;
+}
